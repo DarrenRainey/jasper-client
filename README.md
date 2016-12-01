@@ -1,4 +1,4 @@
-jasper-client
+Jasper-client
 =============
 
 [![Build Status](https://travis-ci.org/jasperproject/jasper-client.svg?branch=master)](https://travis-ci.org/jasperproject/jasper-client) [![Coverage Status](https://img.shields.io/coveralls/jasperproject/jasper-client.svg)](https://coveralls.io/r/jasperproject/jasper-client) [![Codacy Badge](https://www.codacy.com/project/badge/3a50e1bc2261419894d76b7e2c1ac694)](https://www.codacy.com/app/jasperproject/jasper-client)
@@ -28,6 +28,7 @@ Jasper's core developers are [Shubhro Saha](http://www.princeton.edu/~saha/), [C
 For a complete list of code contributors, please see [AUTHORS.md](AUTHORS.md).
 
 ## Major Updates
+- 2016-12-01: Restarted Work
 - 2015-01-19: Added a new TTS engine for [Flite (festival-lite)](https://github.com/jasperproject/jasper-client/pull/286) and an experimental STT engine for [Julius ](https://github.com/jasperproject/jasper-client/pull/285)
 - 2015-01-07: [Added a new STT engine](https://github.com/jasperproject/jasper-client/pull/229) for Wit.ai
 - 2014-11-05: [Added a new TTS engine](https://github.com/jasperproject/jasper-client/pull/229) for MaryTTS
